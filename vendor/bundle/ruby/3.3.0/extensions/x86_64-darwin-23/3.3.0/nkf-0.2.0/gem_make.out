@@ -1,0 +1,18 @@
+current directory: /Users/punchh_akshyas/Projects/GoogleAutocompleteApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/punchh_akshyas/Projects/GoogleAutocompleteApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241123-29509-tnc17j sitelibdir\=./.gem.20241123-29509-tnc17j clean
+
+current directory: /Users/punchh_akshyas/Projects/GoogleAutocompleteApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241123-29509-tnc17j sitelibdir\=./.gem.20241123-29509-tnc17j
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/punchh_akshyas/Projects/GoogleAutocompleteApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241123-29509-tnc17j sitelibdir\=./.gem.20241123-29509-tnc17j install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241123-29509-tnc17j
+
+current directory: /Users/punchh_akshyas/Projects/GoogleAutocompleteApp/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241123-29509-tnc17j sitelibdir\=./.gem.20241123-29509-tnc17j clean
