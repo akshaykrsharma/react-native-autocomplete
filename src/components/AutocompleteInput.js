@@ -23,7 +23,7 @@ const AutocompleteInput = ({setLocation}) => {
           );
         }}
         query={{
-          key: 'AIzaSyBTtHnNv63rZCA2YTsjpLl72U-cxKT73xo',
+          key: 'ENTER_YOUR_KEY',
           language: 'en',
         }}
         styles={{
